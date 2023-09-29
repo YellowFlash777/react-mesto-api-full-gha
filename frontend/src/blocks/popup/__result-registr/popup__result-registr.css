@@ -1,0 +1,11 @@
+.popup__result-registr {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  max-width: 430px;
+  min-height: 330px;
+  background-color: white;
+  border-radius: 10px 10px;
+  box-shadow: 0 0 25px rgba(0,0,0,.15);
+}

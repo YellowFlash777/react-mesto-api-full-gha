@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 880px;
+  margin: 41px auto 0;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+@media screen and (max-width: 899px) {
+  .header {
+    margin: 28px auto 42px;
+  }
+}

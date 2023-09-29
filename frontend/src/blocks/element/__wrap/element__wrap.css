@@ -1,0 +1,8 @@
+.element__wrap {
+  align-items: center;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+}

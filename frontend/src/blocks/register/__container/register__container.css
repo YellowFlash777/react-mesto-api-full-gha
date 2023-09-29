@@ -1,0 +1,8 @@
+.register__container:first-of-type {
+    display: flex;
+  }
+  
+  .register__container:last-of-type {
+    margin-bottom: 216px;
+  }
+  

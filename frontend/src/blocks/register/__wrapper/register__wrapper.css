@@ -1,0 +1,11 @@
+.register__wrapper {
+    display: flex;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 358px;
+    width: 100%;
+  }
+  
+  .register__wrapper:last-of-type {
+    margin-bottom: 216px;
+  }
